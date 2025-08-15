@@ -1,18 +1,34 @@
-## Getting Started
+# Português
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Rancho Maker
 
-## Folder Structure
+Um programa para te ajudar a gerir o teu rancho.
+Dentro dele podes criar uma lista de compras que vai calcular automaticamente o dinheiro que vais precisar e até agendar o dia do rancho.
 
-The workspace contains two folders by default, where:
+### O que é que este programa faz?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Cria e guarda a lista do teu rancho
+- Agenda a data do teu rancho
+- Calcula os preços dos produtos da tua lista e te entrega o valor que vais precisar para tudo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+#### Tem alguma sugestão para melhor este programa?
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Contacte me através dos links disponíveis no [meu perfil](https://github.com/CledsonVilanculo)
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# English
+
+## Rancho Maker
+
+A program to help you manage your ranch.
+Within it, you can create a shopping list that will automatically calculate the money you'll need and even schedule the day of the ranch.
+
+### What does this program do?
+
+- Create and save your ranch list
+- Schedule your ranch date
+- Calculates the prices of the products on your list and gives you the amount you'll need for everything
+
+#### Do you have any suggestions for improving this program?
+
+Contact me through the links available on [my profile](https://github.com/CledsonVilanculo)
